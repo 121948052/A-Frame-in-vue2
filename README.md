@@ -1,5 +1,10 @@
 # my-project
 
+## Description
+3D web application using A-Frame and Vue.js
+
+使用A-Frame和Vue 2.0构建的3D Web应用程序
+
 ## Project setup
 ```
 pnpm install
